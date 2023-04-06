@@ -11,7 +11,7 @@
         <h1>Employee Schedule</h1>
         <nav>
             <ul>
-                <li><a href="homepage.html" class="home-button">Back to Home</a></li>
+                <li><a href="restaurant.html" class="home-button">Back to Home</a></li>
             </ul>
         </nav>
     </header>
